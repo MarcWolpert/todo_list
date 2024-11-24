@@ -1,2 +1,2 @@
-# Restaurant Website
-Dynamic restaurant website using webpack,html, css, and javascript. 
+# To-Do List
+To-Do list using webpack, javascript, html, and css.

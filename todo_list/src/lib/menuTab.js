@@ -1,6 +1,6 @@
 import '../template.css';
 import '../template.html';
-import { drinkImageNameDescription as drinks } from './drinks.js';
+import drinks from './drinks.js';
 
 const appendMenu = (drinkList, content) => {
 	const gridContainer = document.createElement('div');

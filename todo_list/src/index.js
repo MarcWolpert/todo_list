@@ -8,11 +8,10 @@ import {
 } from "./lib/menuTab.js";
 import { appendContact, addContactEventListener } from "./lib/contactTab.js";
 
-
-var foo = 'bar';
-function test(x,y){
-    return x + y;
+var foo = "bar";
+function test(x, y) {
+  return x + y;
 }
-console.log(test(1,2));
+console.log(test(1, 2));
 const something = {};
 something.name = "something";
